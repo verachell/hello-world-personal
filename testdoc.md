@@ -1,5 +1,4 @@
 # This is a test
 ## AND ANOTHER TEST HERE
-Testing a very long sentence to see how it looks when I put it here and I want to get it on GitHub because some sentences are so long. I am hoping this wraps OK, but I'm not sure what to expect. It's hard to know.
-This is a shorter line.
+Testing a very long sentence to see how it looks when I put it here and I want to get it on GitHub because some sentences are so long. I am hoping this wraps OK, but I'm not sure what to expect. It's hard to know.   This is a shorter line.
 
