@@ -7,3 +7,5 @@ Nope, the above did not work. How about this:
 >blockquote 1
 >
 >blockquote 2
+Another regular sentence
+And another
