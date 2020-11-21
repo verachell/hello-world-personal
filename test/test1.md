@@ -3,4 +3,8 @@ A regular sentence
 > hopefully another blockquote line
 Another regular sentence
 
-Nope, the above did not work.
+Nope, the above did not work. How about this:
+
+>blockquote 1
+>
+>blockquote 2
