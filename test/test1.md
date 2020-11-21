@@ -9,4 +9,6 @@ Nope, the above did not work. How about this:
 >blockquote 2
 
 Need 2 lines (i.e. 1 full blank line) between end of blockquote and next regular sentence
-Next sentence wtihout blank line
+Next sentence wtihout blank line does not work
+
+Needs to be like this.
