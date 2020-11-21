@@ -4,7 +4,6 @@ A regular sentence
 Another regular sentence
 
 Nope, the above did not work. How about this:
-
 >blockquote 1
 >
 >blockquote 2
