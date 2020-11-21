@@ -7,5 +7,6 @@ Nope, the above did not work. How about this:
 >blockquote 1
 >
 >blockquote 2
-Another regular sentence
-And another
+
+Need 2 lines (i.e. 1 full blank line) between end of blockquote and next regular sentence
+Next sentence wtihout blank line
