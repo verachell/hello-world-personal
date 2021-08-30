@@ -1,4 +1,4 @@
-Making etis here in the dev branch. Wow, I can see it's really important to check which branch before doing anything!!
+Making edits here in the dev branch. Wow, I can see it's really important to check which branch before doing anything!!
 
 # Markdown formatting tests
 This is a regular para
