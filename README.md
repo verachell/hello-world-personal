@@ -4,6 +4,8 @@ Nothing to see here. My test repository for using GitHub, plus other bits and pi
 More info: I'll add more info here as needed.
 
 ## Reminder to self when creating new releases
+Follow semantic versioning guidelines at https://semver.org/ 
+
 First, create new branch if have not done so already (typically the dev branch, which I always prefer to delete after merging).
 
 It helps to have drafted release notes somewhere to copy and paste in when prompted - these will wind up going in several places in the next steps
