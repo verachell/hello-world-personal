@@ -4,7 +4,7 @@ Nothing to see here. My test repository for using GitHub, plus other bits and pi
 More info: I'll add more info here as needed.
 
 ## Reminder to self when creating new releases
-Follow semantic versioning guidelines at https://semver.org/ 
+Follow semantic versioning guidelines at https://semver.org/ and commit message guidelines at https://www.conventionalcommits.org/en/v1.0.0/
 
 First, create new branch if have not done so already (typically the dev branch, which I always prefer to delete after merging).
 
